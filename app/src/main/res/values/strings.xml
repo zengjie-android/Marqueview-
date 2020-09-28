@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarqueeViewDemo</string>
+    <string name="marquee_view_title">这是一个比较长的跑马灯标题,你看我真的很长</string>
+
+</resources>
